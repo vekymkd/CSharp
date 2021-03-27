@@ -1,0 +1,13 @@
+D:\Seavus\ASP.NET(C#)\Homeworks\CalculateAvarageOfNumbers\CalculateAvarageOfNumbers\bin\Debug\netcoreapp3.1\CalculateAvarageOfNumbers.exe
+D:\Seavus\ASP.NET(C#)\Homeworks\CalculateAvarageOfNumbers\CalculateAvarageOfNumbers\bin\Debug\netcoreapp3.1\CalculateAvarageOfNumbers.deps.json
+D:\Seavus\ASP.NET(C#)\Homeworks\CalculateAvarageOfNumbers\CalculateAvarageOfNumbers\bin\Debug\netcoreapp3.1\CalculateAvarageOfNumbers.runtimeconfig.json
+D:\Seavus\ASP.NET(C#)\Homeworks\CalculateAvarageOfNumbers\CalculateAvarageOfNumbers\bin\Debug\netcoreapp3.1\CalculateAvarageOfNumbers.runtimeconfig.dev.json
+D:\Seavus\ASP.NET(C#)\Homeworks\CalculateAvarageOfNumbers\CalculateAvarageOfNumbers\bin\Debug\netcoreapp3.1\CalculateAvarageOfNumbers.dll
+D:\Seavus\ASP.NET(C#)\Homeworks\CalculateAvarageOfNumbers\CalculateAvarageOfNumbers\bin\Debug\netcoreapp3.1\CalculateAvarageOfNumbers.pdb
+D:\Seavus\ASP.NET(C#)\Homeworks\CalculateAvarageOfNumbers\CalculateAvarageOfNumbers\obj\Debug\netcoreapp3.1\CalculateAvarageOfNumbers.csprojAssemblyReference.cache
+D:\Seavus\ASP.NET(C#)\Homeworks\CalculateAvarageOfNumbers\CalculateAvarageOfNumbers\obj\Debug\netcoreapp3.1\CalculateAvarageOfNumbers.AssemblyInfoInputs.cache
+D:\Seavus\ASP.NET(C#)\Homeworks\CalculateAvarageOfNumbers\CalculateAvarageOfNumbers\obj\Debug\netcoreapp3.1\CalculateAvarageOfNumbers.AssemblyInfo.cs
+D:\Seavus\ASP.NET(C#)\Homeworks\CalculateAvarageOfNumbers\CalculateAvarageOfNumbers\obj\Debug\netcoreapp3.1\CalculateAvarageOfNumbers.csproj.CoreCompileInputs.cache
+D:\Seavus\ASP.NET(C#)\Homeworks\CalculateAvarageOfNumbers\CalculateAvarageOfNumbers\obj\Debug\netcoreapp3.1\CalculateAvarageOfNumbers.dll
+D:\Seavus\ASP.NET(C#)\Homeworks\CalculateAvarageOfNumbers\CalculateAvarageOfNumbers\obj\Debug\netcoreapp3.1\CalculateAvarageOfNumbers.pdb
+D:\Seavus\ASP.NET(C#)\Homeworks\CalculateAvarageOfNumbers\CalculateAvarageOfNumbers\obj\Debug\netcoreapp3.1\CalculateAvarageOfNumbers.genruntimeconfig.cache

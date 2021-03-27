@@ -1,0 +1,13 @@
+D:\Seavus\ASP.NET(C#)\Homeworks\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.exe
+D:\Seavus\ASP.NET(C#)\Homeworks\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.deps.json
+D:\Seavus\ASP.NET(C#)\Homeworks\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.json
+D:\Seavus\ASP.NET(C#)\Homeworks\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.dev.json
+D:\Seavus\ASP.NET(C#)\Homeworks\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.dll
+D:\Seavus\ASP.NET(C#)\Homeworks\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.pdb
+D:\Seavus\ASP.NET(C#)\Homeworks\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csprojAssemblyReference.cache
+D:\Seavus\ASP.NET(C#)\Homeworks\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfoInputs.cache
+D:\Seavus\ASP.NET(C#)\Homeworks\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfo.cs
+D:\Seavus\ASP.NET(C#)\Homeworks\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.CoreCompileInputs.cache
+D:\Seavus\ASP.NET(C#)\Homeworks\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.dll
+D:\Seavus\ASP.NET(C#)\Homeworks\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.pdb
+D:\Seavus\ASP.NET(C#)\Homeworks\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.genruntimeconfig.cache

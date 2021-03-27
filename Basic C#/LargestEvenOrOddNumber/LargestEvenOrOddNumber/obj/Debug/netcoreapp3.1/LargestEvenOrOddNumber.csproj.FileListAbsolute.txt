@@ -1,0 +1,13 @@
+D:\Seavus\ASP.NET(C#)\Homeworks\LargestEvenOrOddNumber\LargestEvenOrOddNumber\bin\Debug\netcoreapp3.1\LargestEvenOrOddNumber.exe
+D:\Seavus\ASP.NET(C#)\Homeworks\LargestEvenOrOddNumber\LargestEvenOrOddNumber\bin\Debug\netcoreapp3.1\LargestEvenOrOddNumber.deps.json
+D:\Seavus\ASP.NET(C#)\Homeworks\LargestEvenOrOddNumber\LargestEvenOrOddNumber\bin\Debug\netcoreapp3.1\LargestEvenOrOddNumber.runtimeconfig.json
+D:\Seavus\ASP.NET(C#)\Homeworks\LargestEvenOrOddNumber\LargestEvenOrOddNumber\bin\Debug\netcoreapp3.1\LargestEvenOrOddNumber.runtimeconfig.dev.json
+D:\Seavus\ASP.NET(C#)\Homeworks\LargestEvenOrOddNumber\LargestEvenOrOddNumber\bin\Debug\netcoreapp3.1\LargestEvenOrOddNumber.dll
+D:\Seavus\ASP.NET(C#)\Homeworks\LargestEvenOrOddNumber\LargestEvenOrOddNumber\bin\Debug\netcoreapp3.1\LargestEvenOrOddNumber.pdb
+D:\Seavus\ASP.NET(C#)\Homeworks\LargestEvenOrOddNumber\LargestEvenOrOddNumber\obj\Debug\netcoreapp3.1\LargestEvenOrOddNumber.csprojAssemblyReference.cache
+D:\Seavus\ASP.NET(C#)\Homeworks\LargestEvenOrOddNumber\LargestEvenOrOddNumber\obj\Debug\netcoreapp3.1\LargestEvenOrOddNumber.AssemblyInfoInputs.cache
+D:\Seavus\ASP.NET(C#)\Homeworks\LargestEvenOrOddNumber\LargestEvenOrOddNumber\obj\Debug\netcoreapp3.1\LargestEvenOrOddNumber.AssemblyInfo.cs
+D:\Seavus\ASP.NET(C#)\Homeworks\LargestEvenOrOddNumber\LargestEvenOrOddNumber\obj\Debug\netcoreapp3.1\LargestEvenOrOddNumber.csproj.CoreCompileInputs.cache
+D:\Seavus\ASP.NET(C#)\Homeworks\LargestEvenOrOddNumber\LargestEvenOrOddNumber\obj\Debug\netcoreapp3.1\LargestEvenOrOddNumber.dll
+D:\Seavus\ASP.NET(C#)\Homeworks\LargestEvenOrOddNumber\LargestEvenOrOddNumber\obj\Debug\netcoreapp3.1\LargestEvenOrOddNumber.pdb
+D:\Seavus\ASP.NET(C#)\Homeworks\LargestEvenOrOddNumber\LargestEvenOrOddNumber\obj\Debug\netcoreapp3.1\LargestEvenOrOddNumber.genruntimeconfig.cache
