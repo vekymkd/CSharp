@@ -1,0 +1,13 @@
+D:\Seavus\ASP.NET(C#)\Homeworks\SumOfEven\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.exe
+D:\Seavus\ASP.NET(C#)\Homeworks\SumOfEven\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.deps.json
+D:\Seavus\ASP.NET(C#)\Homeworks\SumOfEven\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.runtimeconfig.json
+D:\Seavus\ASP.NET(C#)\Homeworks\SumOfEven\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.runtimeconfig.dev.json
+D:\Seavus\ASP.NET(C#)\Homeworks\SumOfEven\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.dll
+D:\Seavus\ASP.NET(C#)\Homeworks\SumOfEven\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.pdb
+D:\Seavus\ASP.NET(C#)\Homeworks\SumOfEven\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.csprojAssemblyReference.cache
+D:\Seavus\ASP.NET(C#)\Homeworks\SumOfEven\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.AssemblyInfoInputs.cache
+D:\Seavus\ASP.NET(C#)\Homeworks\SumOfEven\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.AssemblyInfo.cs
+D:\Seavus\ASP.NET(C#)\Homeworks\SumOfEven\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.csproj.CoreCompileInputs.cache
+D:\Seavus\ASP.NET(C#)\Homeworks\SumOfEven\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.dll
+D:\Seavus\ASP.NET(C#)\Homeworks\SumOfEven\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.pdb
+D:\Seavus\ASP.NET(C#)\Homeworks\SumOfEven\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.genruntimeconfig.cache
