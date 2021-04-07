@@ -1,0 +1,13 @@
+D:\Seavus\ASP.NET(C#)\Homeworks\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.exe
+D:\Seavus\ASP.NET(C#)\Homeworks\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.deps.json
+D:\Seavus\ASP.NET(C#)\Homeworks\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.runtimeconfig.json
+D:\Seavus\ASP.NET(C#)\Homeworks\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.runtimeconfig.dev.json
+D:\Seavus\ASP.NET(C#)\Homeworks\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.dll
+D:\Seavus\ASP.NET(C#)\Homeworks\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.pdb
+D:\Seavus\ASP.NET(C#)\Homeworks\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.csprojAssemblyReference.cache
+D:\Seavus\ASP.NET(C#)\Homeworks\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.AssemblyInfoInputs.cache
+D:\Seavus\ASP.NET(C#)\Homeworks\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.AssemblyInfo.cs
+D:\Seavus\ASP.NET(C#)\Homeworks\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.csproj.CoreCompileInputs.cache
+D:\Seavus\ASP.NET(C#)\Homeworks\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.dll
+D:\Seavus\ASP.NET(C#)\Homeworks\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.pdb
+D:\Seavus\ASP.NET(C#)\Homeworks\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.genruntimeconfig.cache
