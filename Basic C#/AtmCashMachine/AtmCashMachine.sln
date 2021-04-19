@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmCashMachine", "AtmCashMachine\AtmCashMachine.csproj", "{FB25C3FF-BD3F-445F-BD71-428786975393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{79BAE5F2-E3FD-4985-966D-1A564022D17C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB25C3FF-BD3F-445F-BD71-428786975393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB25C3FF-BD3F-445F-BD71-428786975393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB25C3FF-BD3F-445F-BD71-428786975393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB25C3FF-BD3F-445F-BD71-428786975393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79BAE5F2-E3FD-4985-966D-1A564022D17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BAE5F2-E3FD-4985-966D-1A564022D17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BAE5F2-E3FD-4985-966D-1A564022D17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BAE5F2-E3FD-4985-966D-1A564022D17C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A206A331-091F-4C2D-AA94-DB6EA3364686}
+	EndGlobalSection
+EndGlobal
