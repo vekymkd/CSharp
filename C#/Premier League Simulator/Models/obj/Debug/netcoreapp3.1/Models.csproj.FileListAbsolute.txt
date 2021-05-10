@@ -1,0 +1,9 @@
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\Models\bin\Debug\netcoreapp3.1\Models.dll
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\Models\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\Models\obj\Debug\netcoreapp3.1\Models.dll
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\Models\obj\Debug\netcoreapp3.1\Models.pdb

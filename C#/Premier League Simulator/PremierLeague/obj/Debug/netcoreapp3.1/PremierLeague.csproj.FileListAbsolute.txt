@@ -1,0 +1,16 @@
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\bin\Debug\netcoreapp3.1\PremierLeague.exe
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\bin\Debug\netcoreapp3.1\PremierLeague.deps.json
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\bin\Debug\netcoreapp3.1\PremierLeague.runtimeconfig.json
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\bin\Debug\netcoreapp3.1\PremierLeague.runtimeconfig.dev.json
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\bin\Debug\netcoreapp3.1\PremierLeague.dll
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\bin\Debug\netcoreapp3.1\PremierLeague.pdb
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\bin\Debug\netcoreapp3.1\Models.dll
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\obj\Debug\netcoreapp3.1\PremierLeague.csprojAssemblyReference.cache
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\obj\Debug\netcoreapp3.1\PremierLeague.AssemblyInfoInputs.cache
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\obj\Debug\netcoreapp3.1\PremierLeague.AssemblyInfo.cs
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\obj\Debug\netcoreapp3.1\PremierLeague.csproj.CoreCompileInputs.cache
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\obj\Debug\netcoreapp3.1\PremierLeague.csproj.CopyComplete
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\obj\Debug\netcoreapp3.1\PremierLeague.dll
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\obj\Debug\netcoreapp3.1\PremierLeague.pdb
+D:\Seavus\ASP.NET(C#)\Classes\C# Basic\skwd9-net-05-oopcsharp-main\G1\Class10\PremierLeague\obj\Debug\netcoreapp3.1\PremierLeague.genruntimeconfig.cache
